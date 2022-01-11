@@ -1,0 +1,14 @@
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\bin\Debug\netcoreapp3.1\AccountsGroup1.exe
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\bin\Debug\netcoreapp3.1\AccountsGroup1.deps.json
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\bin\Debug\netcoreapp3.1\AccountsGroup1.runtimeconfig.json
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\bin\Debug\netcoreapp3.1\AccountsGroup1.runtimeconfig.dev.json
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\bin\Debug\netcoreapp3.1\AccountsGroup1.dll
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\bin\Debug\netcoreapp3.1\AccountsGroup1.pdb
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\obj\Debug\netcoreapp3.1\AccountsGroup1.csproj.AssemblyReference.cache
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\obj\Debug\netcoreapp3.1\AccountsGroup1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\obj\Debug\netcoreapp3.1\AccountsGroup1.AssemblyInfoInputs.cache
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\obj\Debug\netcoreapp3.1\AccountsGroup1.AssemblyInfo.cs
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\obj\Debug\netcoreapp3.1\AccountsGroup1.csproj.CoreCompileInputs.cache
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\obj\Debug\netcoreapp3.1\AccountsGroup1.dll
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\obj\Debug\netcoreapp3.1\AccountsGroup1.pdb
+C:\Users\eeena\source\repos\AccountsGroup1\AccountsGroup1\obj\Debug\netcoreapp3.1\AccountsGroup1.genruntimeconfig.cache
